@@ -2,7 +2,11 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Mvc;
 
+<<<<<<< HEAD
 namespace MagicVilla_Web.Models.DTO
+=======
+namespace MagicVilla_VillaAPI.Models.DTO
+>>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
 {
     public class VillaDTO
     {  

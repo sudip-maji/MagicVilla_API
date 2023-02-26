@@ -1,10 +1,27 @@
 ﻿{
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+>>>>>>> 521ccf57076bb568b26d1e2d13fae82ab4d9d017
+>>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
+<<<<<<< HEAD
       "applicationUrl": "http://localhost:13317",
       "sslPort": 44308
+=======
+<<<<<<< HEAD
+      "applicationUrl": "http://localhost:12178",
+      "sslPort": 44378
+=======
+      "applicationUrl": "http://localhost:6560",
+      "sslPort": 44302
+>>>>>>> 521ccf57076bb568b26d1e2d13fae82ab4d9d017
+>>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
     }
   },
   "profiles": {
@@ -12,16 +29,41 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
+<<<<<<< HEAD
       "applicationUrl": "http://localhost:5003",
+=======
+<<<<<<< HEAD
+      "applicationUrl": "http://localhost:5192",
+=======
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5149",
+>>>>>>> 521ccf57076bb568b26d1e2d13fae82ab4d9d017
+>>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 521ccf57076bb568b26d1e2d13fae82ab4d9d017
+>>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
+<<<<<<< HEAD
       "applicationUrl": "https://localhost:7127;http://localhost:5003",
+=======
+<<<<<<< HEAD
+      "applicationUrl": "https://localhost:7279;http://localhost:5192",
+=======
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7056;http://localhost:5149",
+>>>>>>> 521ccf57076bb568b26d1e2d13fae82ab4d9d017
+>>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -29,6 +71,13 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      "launchUrl": "swagger",
+>>>>>>> 521ccf57076bb568b26d1e2d13fae82ab4d9d017
+>>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
