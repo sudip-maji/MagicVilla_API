@@ -2,6 +2,7 @@
   "version": 3,
   "targets": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "net7.0": {
       "AutoMapper/12.0.1": {
         "type": "package",
@@ -12,11 +13,14 @@
           "lib/netstandard2.1/AutoMapper.dll": {
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
     "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net7.0": []
+<<<<<<< HEAD
 =======
     "net7.0": {
       "Azure.Core/1.24.0": {
@@ -4111,10 +4115,16 @@
   "packageFolders": {
     "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+  },
+  "packageFolders": {
+    "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\": {}
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "projectUniqueName": "c:\\MagicVilla_Web\\MagicVilla_Web.csproj",
       "projectName": "MagicVilla_Web",
@@ -4143,6 +4153,39 @@
       "configFilePaths": [
         "C:\\Users\\sudip.maji_oncehub\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\sudip.net\\Dictionary\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "C:\\sudip.net\\Dictionary\\Test.csproj",
+      "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
+      "outputPath": "C:\\sudip.net\\Dictionary\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\sudip.net\\String\\String.csproj",
+      "projectName": "String",
+      "projectPath": "C:\\sudip.net\\String\\String.csproj",
+      "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
+      "outputPath": "C:\\sudip.net\\String\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\sudip.net\\Array-algo\\Array-algo.csproj",
+      "projectName": "Array-algo",
+      "projectPath": "C:\\sudip.net\\Array-algo\\Array-algo.csproj",
+      "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
+      "outputPath": "C:\\sudip.net\\Array-algo\\obj\\",
+=======
+      "projectUniqueName": "C:\\sudip.net\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectName": "ConsoleApplication",
+      "projectPath": "C:\\sudip.net\\ConsoleApplication\\ConsoleApplication.csproj",
+      "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
+      "outputPath": "C:\\sudip.net\\ConsoleApplication\\obj\\",
+>>>>>>> d6ddb3805dad68ea8a88e56db32cc6dcffc0d2b3
+>>>>>>> a127730f1c4fd04de8e703b8a059c2848abf6b97
+>>>>>>> 181501880500b66de71a10fd8c835984f4a6f770
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sudip.maji_oncehub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4167,6 +4210,7 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+<<<<<<< HEAD
 <<<<<<< HEAD
         "dependencies": {
           "AutoMapper": {
@@ -4203,6 +4247,8 @@
         },
 >>>>>>> 521ccf57076bb568b26d1e2d13fae82ab4d9d017
 >>>>>>> 1d945c3a6169b9fe3aed61bee7a4541b9a52bc3e
+=======
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
         "imports": [
           "net461",
           "net462",
@@ -4215,14 +4261,21 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+<<<<<<< HEAD
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
           },
+=======
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
       }
     }
   }

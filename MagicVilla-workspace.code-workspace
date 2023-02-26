@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../MagicVilla_Utility"
+		},
+		{
+			"path": "../MagicVilla_Web"
+		}
+	],
+	"settings": {}
+}
