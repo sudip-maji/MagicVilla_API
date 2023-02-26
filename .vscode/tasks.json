@@ -1,0 +1,65 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla_Web.csproj",
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla/MagicVilla.csproj",
+=======
+                "${workspaceFolder}/ConsoleApplication.csproj",
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla_Web.csproj",
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla/MagicVilla.csproj",
+=======
+                "${workspaceFolder}/ConsoleApplication.csproj",
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla_Web.csproj"
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla/MagicVilla.csproj"
+=======
+                "${workspaceFolder}/ConsoleApplication.csproj"
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
