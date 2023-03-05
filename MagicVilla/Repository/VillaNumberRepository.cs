@@ -7,17 +7,17 @@ using System.Linq;
 
 namespace MagicVilla_VillaAPI.Repository{
     
-    public class VillaRepository : Repository<Villa>,IVillaRepository
+    public class VillaNumberRepository : Repository<VillaNumber>,IVillaNumberRepository
     {
         private readonly ApplicationDBContext _db;
-        public VillaRepository(ApplicationDBContext db) :base(db)
+        public VillaNumberRepository(ApplicationDBContext db) :base(db)
         {
             _db=db;
         }
-        public async  Task<Villa> Update(Villa entity)
+        public async  Task<VillaNumber> Update(VillaNumber entity)
         {
           entity.UpdatedDate=DateTime.Now;
-            _db.Villas.Update(entity);
+            _db.VillaNumbers.Update(entity);
               await _db.SaveChangesAsync();
               return entity;
         }
