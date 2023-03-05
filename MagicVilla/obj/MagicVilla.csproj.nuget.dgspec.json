@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MagicVilla_VillaAPI\\MagicVilla\\MagicVilla.csproj": {}
+    "C:\\MagicVilla_Web\\MagicVilla\\MagicVilla.csproj": {}
   },
   "projects": {
-    "C:\\MagicVilla_VillaAPI\\MagicVilla\\MagicVilla.csproj": {
+    "C:\\MagicVilla_Web\\MagicVilla\\MagicVilla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MagicVilla_VillaAPI\\MagicVilla\\MagicVilla.csproj",
+        "projectUniqueName": "C:\\MagicVilla_Web\\MagicVilla\\MagicVilla.csproj",
         "projectName": "MagicVilla",
-        "projectPath": "C:\\MagicVilla_VillaAPI\\MagicVilla\\MagicVilla.csproj",
+        "projectPath": "C:\\MagicVilla_Web\\MagicVilla\\MagicVilla.csproj",
         "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
-        "outputPath": "C:\\MagicVilla_VillaAPI\\MagicVilla\\obj\\",
+        "outputPath": "C:\\MagicVilla_Web\\MagicVilla\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

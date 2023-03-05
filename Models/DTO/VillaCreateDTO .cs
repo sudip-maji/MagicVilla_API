@@ -10,8 +10,9 @@ namespace MagicVilla_Web.Models.DTO
 
         [Required]
         [MaxLength(30)]
-        internal string? name;
+        
         public string? Name {get;set;}
+        internal string? name;
         public string? Details {get;set;}
         [Required]
         public double? Rate {get;set;}

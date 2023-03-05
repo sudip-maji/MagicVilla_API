@@ -4090,11 +4090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\MagicVilla_VillaAPI\\MagicVilla\\MagicVilla.csproj",
+      "projectUniqueName": "C:\\MagicVilla_Web\\MagicVilla\\MagicVilla.csproj",
       "projectName": "MagicVilla",
-      "projectPath": "c:\\MagicVilla_VillaAPI\\MagicVilla\\MagicVilla.csproj",
+      "projectPath": "C:\\MagicVilla_Web\\MagicVilla\\MagicVilla.csproj",
       "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
-      "outputPath": "c:\\MagicVilla_VillaAPI\\MagicVilla\\obj\\",
+      "outputPath": "C:\\MagicVilla_Web\\MagicVilla\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
