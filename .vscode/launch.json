@@ -8,16 +8,26 @@
 <<<<<<< HEAD
             "name": ".NET Core Launch (web)",
 =======
+<<<<<<< HEAD
+            "name": ".NET Core Launch (web)",
+=======
             "name": ".NET Core Launch (console)",
 >>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
 <<<<<<< HEAD
+            "program": "${workspaceFolder}/bin/Debug/net7.0/MagicVilla_Web.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+=======
+<<<<<<< HEAD
             "program": "${workspaceFolder}/MagicVilla/bin/Debug/net7.0/MagicVilla.dll",
             "args": [],
             "cwd": "${workspaceFolder}/MagicVilla",
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             "serverReadyAction": {
@@ -30,6 +40,8 @@
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"
             }
+<<<<<<< HEAD
+=======
 =======
             "program": "${workspaceFolder}/bin/Debug/net7.0/ConsoleApplication.dll",
             "args": [],
@@ -38,6 +50,7 @@
             "console": "internalConsole",
             "stopAtEntry": false
 >>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
         },
         {
             "name": ".NET Core Attach",
