@@ -7,6 +7,9 @@ builder.services.AddAutoMapper(typeof(MappingConfig));
 builder.services.AddHttpClient<IVillaService,VillaService>();
 builder.services.AddScoped<IVillaService,VillaService>();
 
+builder.services.AddHttpClient<IVillaNumberService,VillaNumberService>();
+builder.services.AddScoped<IVillaNumberService,VillaNumberService>();
+
 
 builder.Services.AddDbContext<ApplicationDBContext>(option =>{
     option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultSQLConnection"));
