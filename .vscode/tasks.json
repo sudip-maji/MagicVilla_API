@@ -7,7 +7,19 @@
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj",
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla_Web.csproj",
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla/MagicVilla.csproj",
+=======
+                "${workspaceFolder}/ConsoleApplication.csproj",
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+>>>>>>> b76182cb0c68466760b59b67afb421f2dbd7a723
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +31,19 @@
             "type": "process",
             "args": [
                 "publish",
+<<<<<<< HEAD
                 "${workspaceFolder}/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj",
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla_Web.csproj",
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla/MagicVilla.csproj",
+=======
+                "${workspaceFolder}/ConsoleApplication.csproj",
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+>>>>>>> b76182cb0c68466760b59b67afb421f2dbd7a723
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,6 +57,7 @@
                 "watch",
                 "run",
                 "--project",
+<<<<<<< HEAD
                 "${workspaceFolder}/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj"
             ],
             "problemMatcher": "$msCompile"
@@ -96,6 +121,19 @@
             "netCore": {
                 "appProject": "${workspaceFolder}/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj"
             }
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla_Web.csproj"
+=======
+<<<<<<< HEAD
+                "${workspaceFolder}/MagicVilla/MagicVilla.csproj"
+=======
+                "${workspaceFolder}/ConsoleApplication.csproj"
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+            ],
+            "problemMatcher": "$msCompile"
+>>>>>>> b76182cb0c68466760b59b67afb421f2dbd7a723
         }
     ]
 }

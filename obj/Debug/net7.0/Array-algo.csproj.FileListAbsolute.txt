@@ -1,0 +1,15 @@
+C:\sudip.net\ARRAY-algo\obj\Debug\net7.0\Array-algo.csproj.AssemblyReference.cache
+C:\sudip.net\ARRAY-algo\obj\Debug\net7.0\Array-algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\sudip.net\ARRAY-algo\obj\Debug\net7.0\Array-algo.AssemblyInfoInputs.cache
+C:\sudip.net\ARRAY-algo\obj\Debug\net7.0\Array-algo.AssemblyInfo.cs
+C:\sudip.net\ARRAY-algo\obj\Debug\net7.0\Array-algo.csproj.CoreCompileInputs.cache
+C:\sudip.net\Array-algo\bin\Debug\net7.0\Array-algo.exe
+C:\sudip.net\Array-algo\bin\Debug\net7.0\Array-algo.deps.json
+C:\sudip.net\Array-algo\bin\Debug\net7.0\Array-algo.runtimeconfig.json
+C:\sudip.net\Array-algo\bin\Debug\net7.0\Array-algo.dll
+C:\sudip.net\Array-algo\bin\Debug\net7.0\Array-algo.pdb
+C:\sudip.net\Array-algo\obj\Debug\net7.0\Array-algo.dll
+C:\sudip.net\Array-algo\obj\Debug\net7.0\refint\Array-algo.dll
+C:\sudip.net\Array-algo\obj\Debug\net7.0\Array-algo.pdb
+C:\sudip.net\Array-algo\obj\Debug\net7.0\Array-algo.genruntimeconfig.cache
+C:\sudip.net\Array-algo\obj\Debug\net7.0\ref\Array-algo.dll

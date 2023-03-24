@@ -2,6 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
+<<<<<<< HEAD
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
@@ -10,6 +11,36 @@
             "args": [],
             "cwd": "${workspaceFolder}/MagicVilla_VillaAPI",
             "stopAtEntry": false,
+=======
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+<<<<<<< HEAD
+            "name": ".NET Core Launch (web)",
+=======
+<<<<<<< HEAD
+            "name": ".NET Core Launch (web)",
+=======
+            "name": ".NET Core Launch (console)",
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+<<<<<<< HEAD
+            "program": "${workspaceFolder}/bin/Debug/net7.0/MagicVilla_Web.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+=======
+<<<<<<< HEAD
+            "program": "${workspaceFolder}/MagicVilla/bin/Debug/net7.0/MagicVilla.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/MagicVilla",
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+            "stopAtEntry": false,
+            // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
+>>>>>>> b76182cb0c68466760b59b67afb421f2dbd7a723
             "serverReadyAction": {
                 "action": "openExternally",
                 "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
@@ -20,11 +51,26 @@
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"
             }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+            "program": "${workspaceFolder}/bin/Debug/net7.0/ConsoleApplication.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "internalConsole",
+            "stopAtEntry": false
+>>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
+>>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
+>>>>>>> b76182cb0c68466760b59b67afb421f2dbd7a723
         },
         {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
+<<<<<<< HEAD
         },
         {
             "name": "Docker .NET Launch",
@@ -34,6 +80,8 @@
             "netCore": {
                 "appProject": "${workspaceFolder}/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj"
             }
+=======
+>>>>>>> b76182cb0c68466760b59b67afb421f2dbd7a723
         }
     ]
 }
